@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/testGauges/static/css/main.ed015cc0.css",
-    "main.js": "/testGauges/static/js/main.cef161f4.js",
-    "static/js/787.c8fa4e0e.chunk.js": "/testGauges/static/js/787.c8fa4e0e.chunk.js",
-    "index.html": "/testGauges/index.html",
-    "main.ed015cc0.css.map": "/testGauges/static/css/main.ed015cc0.css.map",
-    "main.cef161f4.js.map": "/testGauges/static/js/main.cef161f4.js.map",
-    "787.c8fa4e0e.chunk.js.map": "/testGauges/static/js/787.c8fa4e0e.chunk.js.map"
+    "main.css": "/testGauges/index.html/static/css/main.ed015cc0.css",
+    "main.js": "/testGauges/index.html/static/js/main.2253740e.js",
+    "static/js/787.c8fa4e0e.chunk.js": "/testGauges/index.html/static/js/787.c8fa4e0e.chunk.js",
+    "index.html": "/testGauges/index.html/index.html",
+    "main.ed015cc0.css.map": "/testGauges/index.html/static/css/main.ed015cc0.css.map",
+    "main.2253740e.js.map": "/testGauges/index.html/static/js/main.2253740e.js.map",
+    "787.c8fa4e0e.chunk.js.map": "/testGauges/index.html/static/js/787.c8fa4e0e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ed015cc0.css",
-    "static/js/main.cef161f4.js"
+    "static/js/main.2253740e.js"
   ]
 }
