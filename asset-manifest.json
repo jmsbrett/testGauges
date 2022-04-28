@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/testGauges/static/css/main.ed015cc0.css",
+    "main.js": "/testGauges/static/js/main.cef161f4.js",
+    "static/js/787.c8fa4e0e.chunk.js": "/testGauges/static/js/787.c8fa4e0e.chunk.js",
+    "index.html": "/testGauges/index.html",
+    "main.ed015cc0.css.map": "/testGauges/static/css/main.ed015cc0.css.map",
+    "main.cef161f4.js.map": "/testGauges/static/js/main.cef161f4.js.map",
+    "787.c8fa4e0e.chunk.js.map": "/testGauges/static/js/787.c8fa4e0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed015cc0.css",
+    "static/js/main.cef161f4.js"
+  ]
+}
